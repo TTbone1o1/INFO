@@ -4,7 +4,7 @@
 Portio respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
 1. Information We Collect
-Photos: You can take one photo per day within the app. These photos are stored locally on your device and are not uploaded to our servers.
+Photos: These photos are stored locally on your device and are not uploaded to our servers.
 Usage Data: We collect app usage data through Firebase, which may include analytics data such as device type, app interactions, and crash reports. This data is anonymized and does not personally identify users.
 
 2. How We Use Your Information
