@@ -1,6 +1,6 @@
 # Terms of Service (Crosi)
 
-**Effective date:** [January 4, 2026]
+**Effective date:** January 4, 2026
 
 By using **Crosi** (“we”, “us”), you agree to these Terms.
 
